@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotiAI</string>
+    <string name="service_name">Motor NotiAI Interceptor</string>
+</resources>
